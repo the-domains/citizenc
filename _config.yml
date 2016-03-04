@@ -1,0 +1,28 @@
+name: citizenc
+favicon: null
+layout_spectrum: 0.8181450632400811
+typography_spectrum: 0.9522022074088454
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.6729781255126
+  lightness: 0.5126832739915699
+  saturation: 0.3902628058567643
+  rhythmicContrast: 0.34179702354595065
+purpose: []
