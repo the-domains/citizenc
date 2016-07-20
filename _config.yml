@@ -1,6 +1,6 @@
 name: citizenc
 favicon: null
-layout_spectrum: 0.8181450632400811
+layout_spectrum: 0.74779
 typography_spectrum: 0.48782
 cta:
   domain: null
@@ -24,5 +24,5 @@ color:
   brandStrength: 0.6729781255126
   lightness: 0.5126832739915699
   saturation: 0.3902628058567643
-  rhythmicContrast: 0.34179702354595065
+  rhythmicContrast: 0.25
 purpose: []
